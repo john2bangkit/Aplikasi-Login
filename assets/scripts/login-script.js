@@ -4,6 +4,7 @@
  * Gunakan fungsi goToLogin() untuk menampilkan halaman login
  * Gunakan fungsi showPopUp() untuk menampilkan pop up error
  */
+/*login dengan javascript*/
 
 const loginFormElement = document.querySelector('#loginForm');
 const inputEmailElement = document.querySelector('#inputEmail');
